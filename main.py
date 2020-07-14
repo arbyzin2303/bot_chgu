@@ -6,7 +6,7 @@ from datetime import datetime
 import requests
 import random
 import time
-import get_pictures
+
 
 
 token = "ea962f6ba831d72090552f917e3e263e44db759542cd3f91b441a789967b1b14ce1908d3318b011337c8c"
