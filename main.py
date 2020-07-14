@@ -10,7 +10,6 @@ import time
 
 
 token = "ea962f6ba831d72090552f917e3e263e44db759542cd3f91b441a789967b1b14ce1908d3318b011337c8c"
-#token = "fa38c3e92052318b45b35f66933d19519d2ba01f6cd128e6458b3f00500fb9bed041fd05d18f6790c9753"
 vk_session = vk_api.VkApi(token=token)
 
 session_api = vk_session.get_api()
